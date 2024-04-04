@@ -1,10 +1,10 @@
 # Kkomi's_Adventure(Watertoad_Course)
 <p align="center">
-  <a href="https://www.notion.so/06fb348ddc7e425d9a8568d51db9ecaf">
+  <a href="https://cocoball.notion.site/29d37f614e96471a94c283276b4286d3">
     <img width="90%" src="images/Service_image/Service_image.jpg" alt="수자원공사 협업 프로젝트"/>
   </a>
   <br> <!-- 줄바꿈 -->
-  <a href="https://www.notion.so/06fb348ddc7e425d9a8568d51db9ecaf">클릭해서 시연영상을 확인하세요</a>
+  <a href="https://cocoball.notion.site/29d37f614e96471a94c283276b4286d3">클릭해서 시연영상을 확인하세요</a>
 </p>
 
 This code for the watertoad course of the Chiak Mountain Exploration program of the Korea National Park Service.
